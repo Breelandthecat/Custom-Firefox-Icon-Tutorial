@@ -1,4 +1,5 @@
 # Custom-Firefox-Icon-Tutorial.
+**PLEASE NOTE THAT THIS GUIDE ONLY CHANGES THE NEW TAB ICON AND VERY VERY FEW OTHERS! It also can change your program icon if you choose.**
 This is a tutorial on how to change the icon of Firefox. Firefox is a web browser. If you want to change the icon outside of the web browser. I Would recommend doing this with Librewolf due to this being mainly tested on it, as i originally came up with this idea while playing with librewolf.
 
 # omni.ja's location.
