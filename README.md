@@ -3,3 +3,4 @@ This is a tutorial on how to change the icon of Firefox. Firefox is a web browse
 
 
 # Step 1: Extract omni.ja
+To extract omni.ja (The file containing the logos)
