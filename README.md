@@ -1,9 +1,11 @@
 # Custom-Firefox-Icon-Tutorial.
 **PLEASE NOTE THAT THIS GUIDE ONLY CHANGES THE NEW TAB ICON AND VERY VERY FEW OTHERS! It also can change your program icon if you choose.**
+# DISCLAIMER!
+**If you are using a different browser than firefox or librewolf, then get the paths yourself. The omni.ja should still be in the browser folder of your firefox install/fork.**
 This is a tutorial on how to change the icon of Firefox. Firefox is a web browser. If you want to change the icon outside of the web browser. I Would recommend doing this with Librewolf due to this being mainly tested on it, as i originally came up with this idea while playing with librewolf.
 
 # omni.ja's location.
-This section is simply to tell you where omni.ja is stored. Its usually in the "browser" folder in your firefox installation folder, usually in C:\Program Files\Mozilla Firefox\browser\omni.ja.
+This section is simply to tell you where omni.ja is stored. Its usually in the "browser" folder in your firefox installation folder, usually in C:\Program Files\Mozilla Firefox\browser\omni.ja. For librewolf, its usually stored in C:\Program Files\Librewolf\browser\omni.ja.
 
 # Step 1: Extract omni.ja.
 To extract omni.ja (The file containing the logos), we need a regular tool to open it. Probably use 7-Zip. Rename omni.ja to omni.zip or open it with 7-zip, Create a folder called "omnimod" in the browser folder. (You can call it whatever you want.) Then select all the files in the root of the omni.ja in 7-Zip, and drag and drop it to the omnimod folder. If windows asks you for administrative permissions to move the files, then confirm it.
