@@ -32,3 +32,8 @@ Thats pretty much it! Hopefully this was helpful. You can try to request to have
 
 [7-Zip version 21.07](https://github.com/Breelandthecat/Custom-Firefox-Icon-Tutorial/blob/main/7z2107-x64.msi)
 [Resource Hacker 5.2.6/Build 425](https://github.com/Breelandthecat/Custom-Firefox-Icon-Tutorial/blob/main/reshacker_setup.exe)
+
+# Using Premade Assets (Unrecommended, because by the time you read this, librewolf or firefox will probably be updated by now.)
+If you don't want to make assets or need to just test, you can use the pre-made assets in premadeassets.zip. You can get the pre-made assets [here.]() Probably either just import the assets yourself or something. To apply the in-program icons, then replace the omni.ja with the pre-asset ones. This can break some things though, or revert updates that added or changed stuff in there. Probably do it yourself. This is just here if you need.
+
+Basically, replace librewolf.exe with librewolfPreModded.exe, and rename the PreModded EXE to just librewolf. With firefox, rename firefoxPreModded.exe to just firefox.exe. And replace omni.ja in Librewolf with the pre-modded librewolf omni.ja. For firefox, use the pre-modded firefox omni.ja.
