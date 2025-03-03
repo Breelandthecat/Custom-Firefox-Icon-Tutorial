@@ -25,6 +25,7 @@ If you are using Librewolf, simply just convert your image to a .ico file. (Prob
 
 # Step 5.5: ACTUALLY Change the actual program icon.
 To actually modify the icon (The one that shows up on your taskbar usually, or in file explorer), Use a tool like Resource Hacker to modify firefox.exe. (Or librewolf.exe) Replace the icon by right clicking the Icon folder, and clicking Replace icon. Select a .ico Version of your custom icon, specifically one that is rescaled to a square resolution like 32x32. Click save as, then save it in a folder like Downloads as firefox.exe. (Or librewolf.exe, whichever you are using), Rename the firefox.exe in your firefox installation to something like firefoxOLD.exe (same with librewolf, name as something like librewolfOLD.exe), then move the firefox.exe (Or librewolf.exe) into your firefox install folder. You should be done now. Once re-opening firefox, almost all icons should be changed.
+If you would like to change individual icons, Open the folder in resource hacker called "Icon groups" and change each logo to your version by right clicking the one you wanna change. You can click them to view. This has been done in the pre-mod.
 
 # Completed
 Thats pretty much it! Hopefully this was helpful. You can try to request to have me make any changes to this guide if needed, or ask for help. I Rarely check on github (Usually every like 3 to 8 months), so don't expect much help. The program versions i used are down below, along with a link.
