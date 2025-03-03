@@ -14,7 +14,7 @@ To find the logos, go to the folder that you copied omni.ja's data to, Go to chr
 Get the image you want to change the logo to. Modify your image and rescale it to 16x16. Save it as icon16.png, then modify the image but this time scale it to icon32.png at a 32x32 resolution, and do the same thing but name it icon48.png and scale it at 48x48, Do the same thing but save it as icon64.png at 64x64 scale, and then finally do it but save it as icon128.png at 128x128 scale.
 
 # Step 3.5: Modifying the other firefox logos (Optional)
-Optional, but you can also rescale your image to 192x192 resolution and save it as about-logo.png, this will change the icon in the about. If you do this, i recommend you also save it again in SVG Format as about-logo.svg. You can also modify about.png to your liking. I Would recommend just making your own version of this image, and scale it at 300x236 resolution. You can also modify about-logo-private.png and about-logo-private@2x.png to your liking, but that isn't at all needed. We're just focusing on the main logo here.
+Optional, but you can also rescale your image to 192x192 resolution and save it as about-logo.png, this will change the icon in the about. If you do this, i recommend you also save it again in SVG Format as about-logo.svg. You can also modify about.png to your liking. I Would recommend just making your own version of this image, and scale it at 300x236 resolution. You can also modify about-logo-private.png (192x192) and about-logo-private@2x.png (384x384) to your liking, but that isn't at all needed. We're just focusing on the main logo here.
 ![image](https://github.com/user-attachments/assets/dab4ccbb-73bc-4b28-8356-a4ecda15404f)
 
 # Step 4: Re-archive omni.ja.
