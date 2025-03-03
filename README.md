@@ -1,5 +1,5 @@
 # Custom-Firefox-Icon-Tutorial.
-This is a tutorial on how to change the icon of Firefox. Firefox is a web browser. If you want to change the icon outside of the web browser, then i recommend Librewolf.
+This is a tutorial on how to change the icon of Firefox. Firefox is a web browser. If you want to change the icon outside of the web browser. I Would recommend doing this with Librewolf due to this being mainly tested on it, as i originally came up with this idea while playing with librewolf.
 
 # omni.ja's location.
 This section is simply to tell you where omni.ja is stored. Its usually in the "browser" folder in your firefox installation folder, usually in C:\Program Files\Mozilla Firefox\browser\omni.ja.
