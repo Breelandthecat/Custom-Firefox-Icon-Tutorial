@@ -29,5 +29,5 @@ To actually modify the icon (The one that shows up on your taskbar usually, or i
 # Completed
 Thats pretty much it! Hopefully this was helpful. You can try to request to have me make any changes to this guide if needed, or ask for help. I Rarely check on github (Usually every like 3 to 8 months), so don't expect much help. The program versions i used are down below, along with a link.
 
-[7-Zip version 21.07](https://netactuate.dl.sourceforge.net/project/sevenzip/7-Zip/21.07/7z2107-x64.msi?viasf=1)
-[Resource Hacker 5.2.6/Build 425](https://web.archive.org/web/20231119045629/https://angusj.com/resourcehacker/reshacker_setup.exe)
+[7-Zip version 21.07](https://github.com/Breelandthecat/Custom-Firefox-Icon-Tutorial/blob/main/7z2107-x64.msi)
+[Resource Hacker 5.2.6/Build 425](https://github.com/Breelandthecat/Custom-Firefox-Icon-Tutorial/blob/main/reshacker_setup.exe)
