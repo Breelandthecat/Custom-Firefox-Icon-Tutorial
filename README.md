@@ -8,7 +8,7 @@ This is a tutorial on how to change the icon of Firefox. Firefox is a web browse
 This section is simply to tell you where omni.ja is stored. Its usually in the "browser" folder in your firefox installation folder, usually in C:\Program Files\Mozilla Firefox\browser\omni.ja. For librewolf, its usually stored in C:\Program Files\Librewolf\browser\omni.ja.
 
 # Step 1: Extract omni.ja.
-To extract omni.ja (The file containing the logos), we need a regular tool to open it. Probably use 7-Zip. Rename omni.ja to omni.zip or open it with 7-zip, Create a folder called "omnimod" in the browser folder. (You can call it whatever you want.) Then select all the files in the root of the omni.ja in 7-Zip, and drag and drop it to the omnimod folder. If windows asks you for administrative permissions to move the files, then confirm it.
+To extract omni.ja (The file containing the logos), we need a regular tool to open it. Use 7-Zip, as it is most-likely to work. Rename omni.ja to omni.zip or open it with 7-zip, Create a folder called "omnimod" in the browser folder. (You can call it whatever you want.) Then select all the files in the root of the omni.ja in 7-Zip, and drag and drop it to the omnimod folder. If windows asks you for administrative permissions to move the files, then confirm it.
 
 # Step 2: Find the logos.
 To find the logos, go to the folder that you copied omni.ja's data to, Go to chrome, go to browser, go to content, then go to branding. All the logos are in there.
